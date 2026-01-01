@@ -1,0 +1,83 @@
+body{
+    background-image: url(bac2.webp);
+    margin: 0;
+    padding: 0;
+    display: flex; 
+    background-size: cover;
+}
+#percentageForm{
+    background-color: beige;
+    opacity: 0.6;
+    height: 600px;
+    width: 40%;
+     margin-left: 180px;
+     margin-top: 30px;
+    align-items: center;
+    border-radius: 10px;
+}
+#percent{
+margin-top: 10px;
+margin-left: 80px;
+margin-top: -10px;
+margin-bottom: 10px;border-radius: 5px;
+cursor: pointer;
+}
+#logo{
+    margin-left: 150px;
+    border-radius: 50%;
+    height: 300px;
+    margin-top: -5px;
+}
+#hi{
+    margin-left: 100px;
+    border: black 3px groove ;
+    width: 350px;text-align: center;
+    border-radius: 10px;
+    margin-top: -10px;
+}
+#form{
+    border: black 3px groove ;
+    width: 300px ;
+    align-items: center;
+    margin-left: 130px; 
+    border-radius: 10px;
+    
+    
+}
+
+#totalMarks{
+    margin-top: -100px;
+    margin-left: 70px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+#obtainedMarks{
+    margin-top: 10px;
+    margin-left:70px;
+     height: 20px;
+    border-radius: 5px;
+}
+
+#Total{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: -20px;
+    font-size: 20px;
+}
+#total{
+ margin-top: 50px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.output{
+    background-color: beige;
+    text-align: center;
+    height: 600px;
+    width: 40%; 
+    margin-top: 30px;
+    border-radius: 10px;
+}
+#percentage{
+    padding-top: 250px;
+}
